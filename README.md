@@ -21,8 +21,8 @@
 
 ### 🛠️ Skills
 - **Languages:** C++, Python, PHP  
-- **Web:** HTML, CSS, Bootstrap  
-- **Tools:** Git, GitHub, VS Code, MySQL  
+- **Tools:** Git, GitHub, VS Code, MySQL  , Google Collab
+  
 
 ---
 
