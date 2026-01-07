@@ -1,8 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 
 
-<h1 align="center">Hi 👋, I'm Arjun Khatter</h1>!
-<h3 align="center">B.Tech Student | Aspiring Software Developer </h3>
+<h1 align="center">Hi 👋, I'm Arjun Khatter</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=800&lines=Aspiring+Software+Developer;SQL+%7C+Python+%7C+C%2B%2B">
+</h1>
+
 
 
 ---
@@ -31,9 +34,8 @@
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: (add link)
-- Email: yourmail@gmail.com
-
+- LinkedIn:https://www.linkedin.com/in/arjun-khatter-480825212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
+- Email:arjunajju590@gmail.com
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 
