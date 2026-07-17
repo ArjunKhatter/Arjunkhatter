@@ -1,10 +1,10 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=230&section=header&text=Arjun%20Khatter&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20|%20HubSpot%20CRM%20Integration%20Intern&descAlignY=55"/>
+
 <div align="center">
 
 # Hi 👋, I'm Arjun Khatter
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;HubSpot+CRM+Integration+Intern;CRM+Automation+Enthusiast;Java+%7C+C%2B%2B+%7C+MySQL+%7C+UiPath;Always+Learning+and+Building"/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
@@ -20,19 +20,25 @@
 
 ---
 
+<div align="center">
+
+## 📋 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
 # 💻 Skills
 
-### Programming Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,mysql"/>
-</p>
+### Programming Languages & Tools
 
-### Tools
+<img src="https://skillicons.dev/icons?i=java,cpp,mysql,vscode,github&perline=5"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,github"/>
-</p>
+</div>
 
 ### CRM & Technologies
 
@@ -48,6 +54,7 @@
 # 💼 Work Experience
 
 ## HubSpot CRM Integration Intern
+
 **Webguruz Technologies Pvt. Ltd.**
 
 - Designed and implemented HubSpot automation workflows.
@@ -122,59 +129,69 @@
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4"/>
 
-</p>
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -182,4 +199,8 @@
 
 ### ⭐ Thank you for visiting my GitHub Profile ⭐
 
+*"Keep Learning • Keep Building"*
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
