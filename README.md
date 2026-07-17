@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Arjun Khatter
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;HubSpot+CRM+Integration+Intern;CRM+Automation+Enthusiast;Java+%7C+C%2B%2B+%7C+MySQL+%7C+UiPath;Always+Learning+and+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;HubSpot+CRM+Integration+Intern;CRM+Automation;Java+%7C+C%2B%2B+%7C+MySQL+%7C+UiPath;Always+Learning+and+Building"/>
 
 </div>
 
