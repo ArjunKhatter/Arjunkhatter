@@ -20,15 +20,6 @@
 
 ---
 
-<div align="center">
-
-## 📋 Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</div>
-
----
 
 # 💻 Skills
 
@@ -36,7 +27,7 @@
 
 ### Programming Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=java,cpp,mysql,vscode,github&perline=5"/>
+<img src="https://skillicons.dev/icons?i=cpp,mysql,vscode,hubspot&perline=5"/>
 
 </div>
 
