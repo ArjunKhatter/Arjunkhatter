@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=230&section=header&text=Arjun%20Khatter&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20|%20HubSpot%20CRM%20Integration%20Intern&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=230&section=header&text=Arjun%20Khatter&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20HubSpot%20CRM%20Developer&descAlignY=55"/>
 
 <div align="center">
 
